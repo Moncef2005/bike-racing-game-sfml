@@ -1,0 +1,3 @@
+C:/Users/HP/OneDrive/Desktop/NewGame/build/CMakeFiles/NewGame.dir
+C:/Users/HP/OneDrive/Desktop/NewGame/build/CMakeFiles/edit_cache.dir
+C:/Users/HP/OneDrive/Desktop/NewGame/build/CMakeFiles/rebuild_cache.dir
