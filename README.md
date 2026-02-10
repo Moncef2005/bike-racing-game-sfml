@@ -38,6 +38,18 @@ The game features smooth animations, collision detection, and progressive diffic
 ## 📸 Screenshots
 
 ### Main Menu
+<img width="793" height="596" alt="image" src="https://github.com/user-attachments/assets/5ec31d32-4b6b-49de-9574-9e2c3d26ff54" />
+
+### Gameplay
 <img width="803" height="605" alt="image" src="https://github.com/user-attachments/assets/f2cc4239-bea3-430a-9c4b-7ba9cb55a092" />
+
+### Game Over
+<img width="782" height="583" alt="image" src="https://github.com/user-attachments/assets/bfe1073e-738f-4793-96e4-483c52d4eae4" />
+
+### Victory Screen
+<img width="787" height="587" alt="image" src="https://github.com/user-attachments/assets/7c063e20-eef7-4bec-9854-afe3ea103475" />
+
+
+
 
 
