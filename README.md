@@ -35,5 +35,9 @@ The game features smooth animations, collision detection, and progressive diffic
 
 ---
 
-## 🏗️ Project Structure
+## 📸 Screenshots
+
+### Main Menu
+<img width="803" height="605" alt="image" src="https://github.com/user-attachments/assets/f2cc4239-bea3-430a-9c4b-7ba9cb55a092" />
+
 
